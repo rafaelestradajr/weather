@@ -1,0 +1,42 @@
+.container{
+  
+}
+
+#sidebar{
+    border: solid black;
+    height: 800px;
+  position: absolute;
+    
+    
+}
+ 
+
+
+
+
+
+.header { background-color: #000; width: 100%;; height:50px; 
+}
+#button{
+    size: 2rem;
+}
+.content1{
+    border: aqua solid 2px;
+ 
+  float:right;
+  position: relative; 
+ 
+   
+  
+    
+    
+}
+#result.section{
+    float: left;
+    background-color:white;
+    width:100% ;
+}
+
+  
+
+
